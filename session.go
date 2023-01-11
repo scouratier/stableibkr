@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func tickle() {
+func Tickle() {
 	fmt.Println("Refreshing Login with a Tickle")
 }
